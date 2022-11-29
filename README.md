@@ -8,9 +8,9 @@
   - [C++, C#, JavaScript, Java, Pyton, Swift](https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/Book%3A_Programming_Fundamentals_(Busbee_and_Braunschweig)/01%3A_Introduction_to_Programming)
 - <b>IT Certification Courses</b>
   - [A+ Certification](https://www.itpro.tv/courses/a/)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Network+ Certification](https://www.itpro.tv/courses/network/)
+  - [Security+ Certification](https://www.itpro.tv/courses/security/)
+  - [PenTest+ Certification](https://www.itpro.tv/courses/pentest/)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
