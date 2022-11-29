@@ -1,13 +1,13 @@
 <h1>Hello, I'm Alfredo Ruiz-Felix! <br/><a href="https://github.com/AliasLuck">Full-Time Student</a>, <a href="https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security">Cybersecurity Enthusiast</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Resources I Use:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Learn to Code With Python</b>
+  - [Python on Libre](https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Book%3A_Python_for_Everybody_(Severance)/01%3A_Introduction)
+- <b>Introduction to Coding </b>
+  - [C++, C#, JavaScript, Java, Pyton, Swift](https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/Book%3A_Programming_Fundamentals_(Busbee_and_Braunschweig)/01%3A_Introduction_to_Programming)
+- <b>IT Certification Courses</b>
+  - [A+ Certification](https://www.itpro.tv/courses/a/)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
