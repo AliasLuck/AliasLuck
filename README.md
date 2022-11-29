@@ -1,6 +1,6 @@
 <h1>Hello, I'm Alfredo Ruiz-Felix! <br/><a href="https://github.com/AliasLuck">Full-Time Student</a>, <a href="https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security">Cybersecurity Enthusiast</a>
 
-<h2>👨‍💻 Software Development Resources I Use:</h2>
+<h2>👨‍💻 Information Technology Resources I Use:</h2>
 
 - <b>Learn to Code With Python</b>
   - [Python on Libre](https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Book%3A_Python_for_Everybody_(Severance)/01%3A_Introduction)
